@@ -3,4 +3,7 @@
 # Edited for the 4th video, 04-status-add
 ###
 
-README
+One
+Two
+Three
+FOUR!!!!
