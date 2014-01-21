@@ -1,6 +1,2 @@
-#
 1. learn commits - done
-ignore files - done
-2 . PROFIT
-3. intentionally left blank
-4. added for the sake
+2. learn ignore files - done
