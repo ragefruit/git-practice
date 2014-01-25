@@ -2,3 +2,6 @@
 1. learn commits - done
 2. learn ignore files - done
 3. learn about branches - done
+4. learn some github - done
+5. learn interactive add - done
+6. dive into patching - done
